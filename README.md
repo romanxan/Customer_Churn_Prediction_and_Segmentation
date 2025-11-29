@@ -1,6 +1,8 @@
 # Customer Churn Prediction and Segmentation
 
-[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&style=for-the-badge)](<[KAGGLE_NOTEBOOK_URL](https://www.kaggle.com/code/yosefmohtady/customer-churn-prediction-and-segmentation)>) [![Follow me on Kaggle](https://img.shields.io/badge/Follow-Kaggle-FF5A5F?logo=kaggle&style=for-the-badge)](<[KAGGLE_PROFILE_URL](https://www.kaggle.com/yosefmohtady)>)
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/code/yosefmohtady/customer-churn-prediction-and-segmentation)
+
+[![Follow me on Kaggle](https://img.shields.io/badge/Follow-Kaggle-FF5A5F?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/yosefmohtady)
 
 ## Overview
 
